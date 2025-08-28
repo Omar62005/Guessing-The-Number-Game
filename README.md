@@ -1,22 +1,9 @@
 🎯 Number Guessing Game
 A simple and interactive Python-based number guessing game where players try to guess a randomly generated number between 1 and 50.
-📋 Table of Contents
-
-Features
-How to Play
-Installation
-Usage
-Game Rules
-Code Structure
-Example Gameplay
-Skills Demonstrated
-Future Enhancements
-Contributing
-License
 
 ✨ Features
 
-Random Number Generation: Generates a random number between 1-50 for each game
+=> Random Number Generation: Generates a random number between 1-50 for each game
 Hint System: Provides "higher" or "lower" feedback after each guess
 Attempt Tracking: Counts and displays the total number of attempts
 User-Friendly Interface: Clear instructions and welcoming messages
@@ -114,4 +101,5 @@ Potential improvements for the game:
 
 
 Happy Guessing! 🎉
+
 Created as a learning project to practice Python fundamentals and game development basics.
